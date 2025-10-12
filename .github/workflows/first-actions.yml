@@ -25,5 +25,6 @@ jobs:
     - name: Run tests
       run: |
         cd src
+        #faru
         python -m pytest addition.py
 #by far
